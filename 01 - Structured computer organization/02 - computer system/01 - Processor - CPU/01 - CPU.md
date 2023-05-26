@@ -16,3 +16,7 @@ two most important register:
 # CPU datapath
 
 ![](2023-05-24-18-02-31.png)
+
+# CPU execution
+
+![](2023-05-25-17-43-54.png)
