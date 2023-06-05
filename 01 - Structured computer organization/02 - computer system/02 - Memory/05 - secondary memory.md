@@ -35,4 +35,4 @@ SSD sector size is the same as HDD's, 512 bytes per sector
 
 SSD do not use spinning devices, so the **seeking** speed is removed, hence the performance is much better than HDD, but for electrons injection (electrons must go through the floating gate), the lifetime of SSD is much smaller
 
-![](2023-06-05-16-06-07.png)
+![](2023-06-05-16-06-07.png)    
